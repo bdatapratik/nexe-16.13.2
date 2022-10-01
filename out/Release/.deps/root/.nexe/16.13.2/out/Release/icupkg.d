@@ -1,0 +1,1 @@
+cmd_/root/.nexe/16.13.2/out/Release/icupkg := g++ -o /root/.nexe/16.13.2/out/Release/icupkg -pthread -rdynamic -m64  -Wl,--start-group /root/.nexe/16.13.2/out/Release/obj.host/icupkg/deps/icu-small/source/tools/icupkg/icupkg.o /root/.nexe/16.13.2/out/Release/obj.host/icupkg/tools/icu/no-op.o /root/.nexe/16.13.2/out/Release/obj.host/tools/icu/libicutools.a  -Wl,--end-group

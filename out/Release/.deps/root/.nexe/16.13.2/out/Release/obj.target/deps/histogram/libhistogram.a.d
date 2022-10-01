@@ -1,0 +1,1 @@
+cmd_/root/.nexe/16.13.2/out/Release/obj.target/deps/histogram/libhistogram.a := rm -f /root/.nexe/16.13.2/out/Release/obj.target/deps/histogram/libhistogram.a && ar crsT /root/.nexe/16.13.2/out/Release/obj.target/deps/histogram/libhistogram.a /root/.nexe/16.13.2/out/Release/obj.target/histogram/deps/histogram/src/hdr_histogram.o

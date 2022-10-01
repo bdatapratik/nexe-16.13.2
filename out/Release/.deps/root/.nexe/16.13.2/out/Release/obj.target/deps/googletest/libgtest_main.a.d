@@ -1,0 +1,1 @@
+cmd_/root/.nexe/16.13.2/out/Release/obj.target/deps/googletest/libgtest_main.a := rm -f /root/.nexe/16.13.2/out/Release/obj.target/deps/googletest/libgtest_main.a && ar crsT /root/.nexe/16.13.2/out/Release/obj.target/deps/googletest/libgtest_main.a /root/.nexe/16.13.2/out/Release/obj.target/gtest_main/deps/googletest/src/gtest_main.o
